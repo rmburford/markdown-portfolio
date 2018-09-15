@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Bitmoji Avatar](https://files.slack.com/files-pri/T028NFZ31-FCUH99JUV/bitmoji-20180915021720.png)
