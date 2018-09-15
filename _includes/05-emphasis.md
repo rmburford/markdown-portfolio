@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**_Technical_ Skills**
+HTML, CSS, Python, Confluence, JIRA, Wordpress, DNS, Webhosting, MS Office, Microsoft Office Suite, Office 365, Technical Writing, Salesforce
